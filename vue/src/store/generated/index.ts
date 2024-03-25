@@ -1,10 +1,10 @@
 // THIS FILE IS GENERATED AUTOMATICALLY. DO NOT MODIFY.
 
-import VidulumVidulumVidulumVidulumVidulum from './vidulum/vidulum/vidulum.vidulum.vidulum'
+import VidulumVidulumVidulum from './vidulum.vidulum.vidulum'
 
 
 export default { 
-  VidulumVidulumVidulumVidulumVidulum: load(VidulumVidulumVidulumVidulumVidulum, 'vidulum.vidulum.vidulum'),
+  VidulumVidulumVidulum: load(VidulumVidulumVidulum, 'vidulum.vidulum.vidulum'),
   
 }
 
